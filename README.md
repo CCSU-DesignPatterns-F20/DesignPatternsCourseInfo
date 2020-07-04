@@ -4,9 +4,9 @@
 
 Review the syllabus to get familiar with course learning outcomes, grading policy, helpful hints, and course calendar.
 
-[Syllabus CS 417](https://github.com/ccsu-cs417-505-f19/DesignPatternsCourseInfo/blob/master/Syllabus-417.md)
+[Syllabus CS 417](https://github.com/CCSU-DesignPatterns-F20/DesignPatternsCourseInfo/blob/master/Syllabus-417.md)
 
-[Syllabus CS 505](https://github.com/CCSU-CS417-505-F19/DesignPatternsCourseInfo/blob/master/Syllabus-505.md)
+[Syllabus CS 505](https://github.com/CCSU-DesignPatterns-F20/DesignPatternsCourseInfo/blob/master/Syllabus-505.md)
 
 [This page will help you get started with git and GitHub](https://github.com/CCSU-DesignPatterns-F20/DesignPatternsCourseInfo/blob/master/Git-ReadMe.md)
 
