@@ -62,9 +62,7 @@ As part of this course students will learn key skills for team based designing a
 
 -   CLO-5: Knowledge of how to incorporate the following frameworks into an application design: Collections, Generics, Composite, Comparators, and MVC (SO-1,2,6)
 
--   CLO-6: Better understand unit and integration testing design and how to automate testing of each (SO-1,2,6)
-
--   CLO-7: The course will culminate in a large final project that will require working on teams and choosing the right design patterns covered throughout the course (SO-1,2,5,6)
+-   CLO-6: The course will culminate in a large final project that will require working on teams using proper source control practices and choosing the right design patterns covered throughout the course (SO-1,2,5,6)
 
 **Grading for the course:**
 
