@@ -58,7 +58,7 @@ As part of this course students will learn key skills for team based designing a
 
 -   CLO-3: Increase understanding of the key aspects of object-oriented design: abstraction, encapsulation, modularity, message passing, polymorphism, inheritance, exception handling (SO-1,2,6)
 
--   CLO-4: Develop and advanced knowledge of the following design patterns: Singleton, Template, Strategy, Iterator, Factory, Delegation (SO-1,2,6)
+-   CLO-4: Develop an advanced knowledge of the following design patterns: Singleton, Template, Strategy, Iterator, Factory, Delegation (SO-1,2,6)
 
 -   CLO-5: Knowledge of how to incorporate the following frameworks into an application design: Collections, Generics, Composite, Comparators, and MVC (SO-1,2,6)
 
