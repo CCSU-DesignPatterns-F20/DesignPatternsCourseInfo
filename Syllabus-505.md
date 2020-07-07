@@ -51,18 +51,17 @@ As part of this course students will learn key skills for team based designing a
 
 > Program objectives and program learning outcomes are supported by the following course learning outcomes achieved by students upon a successful completion of this course:
 
--   CLO-1: Develop an in depth understanding of applying advanced object oriented design patterns to real world problems (SO-1,2,6)
+-   CLO-1: Able to apply advanced object oriented design patterns to real world problems (SO-1,2,6)
 
--   CLO-2: Understand how to use UML in complex RUP design: Object and classes, relationships, state and sequence diagrams (SO-1,2,6)
+-   CLO-2: Able to analyze, use, and create complex UML design: Object and classes, relationships, state and sequence diagrams (SO-1,2,6)
 
--   CLO-3: Increase understanding of the key aspects of object-oriented design: abstraction, encapsulation, modularity, message passing, polymorphism, inheritance, exception handling (SO-1,2,6)
+-   CLO-3: Able to apply key aspects of object-oriented design: abstraction, encapsulation, modularity, message passing, polymorphism, inheritance, exception handling (SO-1,2,6)
 
--   CLO-4: Develop and advanced knowledge of the following design patterns: Singleton, Template, Strategy, Iterator, Factory, Delegation (SO-1,2,6)
+-   CLO-4: Able to design, implement, and evaluatethe following design patterns: Singleton, Template, Strategy, Iterator, Factory, Delegation (SO-1,2,6)
 
--   CLO-5: Knowledge of how to incorporate the following frameworks into an application design: Collections, Generics, Composite, Comparators, and MVC (SO-1,2,6)
+-   CLO-5: Able to incorporate the following frameworks into an application design: Collections, Generics, Composite, Comparators, and MVC (SO-1,2,6)
 
--   CLO-6: The course will culminate in a large final project that will require working on teams using proper source control practices and choosing the right design patterns covered throughout the course (SO-1,2,5,6)
-
+-   CLO-6: Able to use proper team source control practices and apply appropriate design patterns in a large multi-release project (SO-1,2,5,6)
 
 **Grading for the course:**
 
