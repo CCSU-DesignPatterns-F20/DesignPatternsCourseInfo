@@ -41,3 +41,6 @@
 /Codedemos/IteratorGenericsCompositeDecorator/.classpath
 /Codedemos/IteratorGenericsCompositeDecorator/.project
 /Codedemos/IteratorGenericsCompositeDecorator/build.xml
+.vs/
+/.vs/ProjectSettings.json
+.vs
