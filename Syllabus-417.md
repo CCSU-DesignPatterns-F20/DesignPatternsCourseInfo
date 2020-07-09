@@ -68,9 +68,10 @@ As part of this course students will learn key skills for team based designing a
 
 | **Percentage of grade:**            |         |
 |-------------------------------------|---------|
+| **Participation**                   | **7%** |
 | **Assignments**                     | **25%** |
 | **Exams**                           | **30%** |
-| **Final project**                   | **45%** |
+| **Final project**                   | **38%** |
 
 Letter grade will be calculated according to the following table:
 
@@ -78,7 +79,7 @@ Letter grade will be calculated according to the following table:
 |------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|----------|
 | **95-100** | **90-94** | **87-89** | **84-86** | **80-83** | **77-79** | **74-76** | **70-73** | **67-69** | **64-66** | **60-63** | **0-59** |
 
-**Participation and in class work:**  We will be doing **a lot** of in class group work which is critical to your understanding of the material and drives the entire class' learning.  As a result I take your effort in it very seriously. **If you do not participate you will not receive a passing grade for this course.** Participating does not simply mean showing up for class. It means fully engaging and contributing to your group’s work during class workshops and discussion boards. Simply being part of a group that turns in the work does not mean you are actively contributing. A detailed explanation that applies both to lectures as well as in-class work can be found at[ *http://www.cs.ccsu.edu/~williams/classes/WhatDoesClassParticipationMean.pdf*](http://www.cs.ccsu.edu/~williams/classes/WhatDoesClassParticipationMean.pdf).
+**Participation and in class work:**  We will be doing **a lot** of in class group work which is critical to your understanding of the material and drives the entire class' learning.  As a result I take your effort in it very seriously. Participating does not simply mean showing up for class. It means fully engaging and contributing to your group’s work during class workshops and discussion boards. Simply being part of a group that turns in the work does not mean you are actively contributing. A detailed explanation that applies both to lectures as well as in-class work can be found at[ *http://www.cs.ccsu.edu/~williams/classes/WhatDoesClassParticipationMean.pdf*](http://www.cs.ccsu.edu/~williams/classes/WhatDoesClassParticipationMean.pdf).
 
 Finally, I know you are very bright otherwise you wouldn't be here, and I value your ideas and contributions in making this class better. Because I believe your active participation makes the class a better learning experience for all, I appreciate your questions anytime you don’t fully understand something or questions on how the material might be applied in practice. I do not expect you to know all of the answers. Thoughtful participation regardless of correctness will be rewarded.
 
