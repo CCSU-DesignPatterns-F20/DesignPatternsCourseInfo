@@ -56,7 +56,7 @@ As part of this course students will learn key skills for team based designing a
 
 -   CLO-2: Able to apply core object-oriented design techniques: abstraction, encapsulation, modularity, message passing, polymorphism, inheritance, exception handling, and frameworks (SO-1,2,6)
 
--   CLO-3: Able to design, implement, and evaluate behavioral design patterns: Chain of responsibility, Template, Strategy, Observer, State, Iterator, Visitor, Command, Flyweight, and Memento (SO-1,2,6)
+-   CLO-3: Able to design, implement, and evaluate behavioral design patterns: Chain of responsibility, Template, Strategy, Observer, State, Iterator, Visitor, Command, and Memento (SO-1,2,6)
 
 -   CLO-4: Able to design, implement, and evaluate creational design patterns: Singleton, Abstract factory, Factory method, Builder, Prototype (SO-1,2,6)
 
