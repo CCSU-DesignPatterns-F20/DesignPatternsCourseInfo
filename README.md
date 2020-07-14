@@ -10,6 +10,8 @@ Review the syllabus to get familiar with course learning outcomes, grading polic
 
 [This page will help you get started with git and GitHub](https://github.com/CCSU-DesignPatterns-F20/DesignPatternsCourseInfo/blob/master/Git-ReadMe.md)
 
+We will be covering both in class, but if you run into any challenges you can find resources [on the Git Help page](Help-Git-GitHub.md)
+
 ## Course layout
 The material for this course is split between Blackboard for course specific information and this GitHub repository which serves as a Open Education Resource (OER) so you don't need to buy any textbooks.
 ### Blackboard content
