@@ -18,7 +18,7 @@ https://outlook.office365.com/owa/calendar/CCSUComputerScience@my.ccsu.edu/booki
     *  See the Git readme https://github.com/CCSU-DesignPatterns-F20/DesignPatternsCourseInfo/blob/master/README.md
 
 
-**Class:** 4:30-5:45pm Monday and Wednesday in MS 204
+**Class:** 4:30-5:45pm Monday and Wednesday live virtual class via Blackboard Collaborate
 
 **Optional book:**
 
@@ -136,7 +136,7 @@ http://www.ccsu.edu/academicintegrity/
 
 ***Please note assignment dates are only to give you an idea of what assignments will cover and approximate time frame, actual dates will be set as the semester progresses***
 
-**Week 1 week of August 26**
+**Week 1 week of August 24 (first day of classes 8/26)**
 
 -   Introduction and fit into RUP process
 
@@ -144,7 +144,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   UML modeling
 
-**Week 2 week of September 2**
+**Week 2 week of 8/31**
 
 -   *Labor day - No class Monday September 2nd*
 
@@ -152,11 +152,11 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Assignment 0 - GitHub id
 
-**Week 3 week of September 9**
+**Week 3 week of 9/7**
 
 -   UML modeling cont.
 
-**Week 4 week of September 16**
+**Week 4 week of 9/14**
 
 -   Dynamic UML
 
@@ -166,13 +166,13 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 1 - Git and UML basics*
 
-**Week 5 week of September 23**
+**Week 5 week of 9/21**
 
 -   Exception handling
 
 -   Chain of responsibility
 
-**Week 6 week of September 30**
+**Week 6 week of 9/28**
 
 -   Generic refactoring
 
@@ -180,7 +180,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Strategy
 
-**Week 7 week of October 7**
+**Week 7 week of 10/5**
 
 -   Strategy cont.
 
@@ -188,13 +188,13 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 2 - UML, implementation, testing*
 
-**Week 8 week of October 14**
+**Week 8 week of 10/12**
 
 -   Singleton
 
--   ***Midterm October 16***
+-   ***Midterm October 14***
 
-**Week 9 week of October 21**
+**Week 9 week of 10/19**
 
 -   Iterator
 
@@ -204,7 +204,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Generics
 
-**Week 10 week of October 28**
+**Week 10 week of 10/26**
 
 -   Adapter
 
@@ -216,7 +216,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Final project sprint 1*
 
-**Week 11 week of November 4**
+**Week 11 week of 11/2**
 
 -   Factory method
 
@@ -224,7 +224,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Builder
 
-**Week 12 week of November 11**
+**Week 12 week of 11/9**
 
 -   Visitor
 
@@ -233,18 +233,18 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Final project sprint 2*
 
-**Week 13 week of November 18**
+**Week 13 week of 11/16**
 -   State
 
-**Week 14 week of November 25**
+**Week 14 week of 11/23**
 -   Bringing it all together
 
 -   *Final project sprint 3*
 
 - *Thanksgiving recess*
 
-**Week 15 week of December 2**
--   ***Final projects due 12/2***
+**Week 15 week of December 7**
+-   ***Final projects due 12/7***
 
 -   Final project presentations
 
@@ -252,6 +252,6 @@ http://www.ccsu.edu/academicintegrity/
 
 **Final Exam**
 
--   Monday December 9th
+-   Monday December 14th
 
     -   5:30-7:30pm

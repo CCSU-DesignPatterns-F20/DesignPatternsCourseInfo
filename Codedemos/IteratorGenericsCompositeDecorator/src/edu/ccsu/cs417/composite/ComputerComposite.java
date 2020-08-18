@@ -38,7 +38,7 @@ public abstract class ComputerComposite extends ComputerComponent {
     }
 
     /**
-     * Note implemented as template pattern
+     * Implemented as template pattern, return price of this and all sub components
      *
      * @return price total of this component plus all contained classes
      */
