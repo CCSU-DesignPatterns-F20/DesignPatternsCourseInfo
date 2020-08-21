@@ -6,7 +6,7 @@ _Central Connecticut State University_
 
 **Office:** MS 303 Phone: 860-832-2719
 
-**Office hours**: Office hour appointments can be booked via Bookings via the link below, but if these times don't work for you please email me to find a time that will work with your schedule - you will then go to office hours via MS Teams (a link will be emailed to you when you reserve a time):
+**Office hours**: Office hours will be held virtually by scheduling appointments via the link below, but if these times don't work for you please email me to find a time that will work with your schedule.  When your schedule a time, a link will be emailed to you with how to join me for your appointment:
 https://outlook.office365.com/owa/calendar/CCSUComputerScience@my.ccsu.edu/bookings/
 
 **e-mail:** cwilliams@ccsu.edu
