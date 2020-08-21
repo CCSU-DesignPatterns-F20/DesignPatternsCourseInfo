@@ -146,13 +146,13 @@ http://www.ccsu.edu/academicintegrity/
 
 **Week 2 week of 8/31**
 
--   *Labor day - No class Monday September 2nd*
-
 -   UML modeling cont.
 
 -   Assignment 0 - GitHub id
 
 **Week 3 week of 9/7**
+
+-   *Labor day - No class Monday September 7th*
 
 -   UML modeling cont.
 
