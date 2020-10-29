@@ -15,7 +15,7 @@ abstract class OnState implements CalculatorState {
 
 	public abstract void equalPress(Calculator calc);
 	
-	public void powerPress(Calculator calc) {
+	public final void powerPress(Calculator calc) {
 		calc.updateDisplay("0");
 		calc.setPowerOn(false);
 		calc.setCalculatorState(new OffState());
