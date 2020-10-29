@@ -20,4 +20,8 @@ public class DieselEngine implements Engine {
   public double getEngineSound() {
     return decoratedEngine.getEngineSound() * 1.2;
   }
+  
+  public String toString() {
+	  return "DieselEngine("+decoratedEngine.toString()+" )";
+  }
 }

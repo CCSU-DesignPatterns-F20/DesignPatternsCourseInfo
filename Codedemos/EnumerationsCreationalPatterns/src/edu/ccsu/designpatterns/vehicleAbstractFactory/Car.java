@@ -1,5 +1,7 @@
 package edu.ccsu.designpatterns.vehicleAbstractFactory;
 
+import edu.ccsu.designpatterns.util.ListUtil;
+
 /**
  * Concrete vehicle class
  */
@@ -20,7 +22,7 @@ public class Car extends VehicleBase{
 		return doors;
 	}
 
-private Engine engine;
+  private Engine engine;
   private Transmission transmission;
   private int seats;
   private int doors;
@@ -39,5 +41,14 @@ private Engine engine;
 
   public int getNumberDoors(){
     return doors;
+  }
+  
+  public String toString(){
+	String returnString = "Car[";
+	returnString += "[Seats "+seats+"] ";
+	returnString += "[Doors "+doors+"] ";
+	returnString += engine.toString()+" ";
+	returnString += transmission.toString() + " ";
+	return returnString + "]";
   }
 }

@@ -14,4 +14,8 @@ public class Engine {
   public double getEngineSound(){
     return horsePower * soundMultiplier;
   }
+  
+  public String toString() {
+	  return "Engine("+horsePower+" horse power, engine sound: "+ getEngineSound()+" )";
+  }
 }

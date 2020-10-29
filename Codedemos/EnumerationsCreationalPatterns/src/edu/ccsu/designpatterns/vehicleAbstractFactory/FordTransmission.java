@@ -8,6 +8,8 @@ package edu.ccsu.designpatterns.vehicleAbstractFactory;
  *
  * @author cw1491
  */
-public class FordTransmission implements Transmission{
-
+public class FordTransmission implements Transmission {
+	public String toString() {
+		return "FordTransmission";
+	}
 }

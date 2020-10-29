@@ -14,7 +14,7 @@ public class Main {
 	public static void main(String[] args) {
 		Calculator calculator = new Calculator();
 		
-		calculator.numPress(NumKey.ONE);  // does nothing
+		calculator.numPress(NumKey.ONE); 
 		calculator.powerPress();
 		calculator.numPress(NumKey.ONE);
 		calculator.numPress(NumKey.TWO);
