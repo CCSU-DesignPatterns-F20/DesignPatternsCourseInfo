@@ -9,4 +9,8 @@ public class ToyotaCamry extends Car{
     // 4 seats, 4 doors
     super(engine,transmission, 4, 4);
   }
+
+  public String toString() {
+  	return "ToyotaCamry-"+super.toString();
+  }
 }

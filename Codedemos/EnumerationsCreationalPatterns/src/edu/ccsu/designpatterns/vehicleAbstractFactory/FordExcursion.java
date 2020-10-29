@@ -8,4 +8,8 @@ public class FordExcursion extends Car{
     // 4 seats, 2 doors
     super(engine,transmission,6,4);
   }
+    
+    public String toString() {
+    	return "FordExcursion-"+super.toString();
+    }
 }
