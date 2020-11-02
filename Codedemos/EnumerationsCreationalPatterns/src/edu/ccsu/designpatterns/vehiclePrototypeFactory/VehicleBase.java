@@ -25,4 +25,8 @@ public abstract class VehicleBase implements Vehicle{
   }
 
   public abstract VehicleBase clone();
+  
+  public String toString() {
+	  return "VehicleBase-movementStrategy="+movementStrategy.toString();
+  }
 }

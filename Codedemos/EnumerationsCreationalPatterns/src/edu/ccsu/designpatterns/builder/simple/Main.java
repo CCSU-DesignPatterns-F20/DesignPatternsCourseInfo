@@ -15,7 +15,7 @@ public class Main {
     // Option 1
     PersonBuilder builder = new Person.PersonBuilder("John", "Doe");
     builder.setMaritialStatus(MaritalStatus.DIVORCED);
-    builder.setJobTitle("Professor");
+    builder.setJobTitle("Writer");
     Person johnDoe = builder.buildPerson();
 
     // Option 2
@@ -23,6 +23,7 @@ public class Main {
                      .setMaritialStatus(MaritalStatus.MARRIED)
                      .setSignificantOtherName("Jerry Rice")
                      .setJobTitle("Professor").buildPerson();
-    System.out.println(johnDoe.getFirst() + " " + janeDoe.getFirst());
+    System.out.println(johnDoe.toString());
+    System.out.println(janeDoe.toString());
   }
 }

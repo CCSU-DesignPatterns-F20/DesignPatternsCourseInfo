@@ -43,6 +43,23 @@ public String getJobTitle() {
 	return jobTitle;
 }
 
+public String toString() {
+	StringBuilder stringBuilder = new StringBuilder("Person("+first+" "+last);
+	if (jobTitle !=null) {
+		stringBuilder.append(" jobTitle="+jobTitle);
+	}
+	if (height != null) {
+		stringBuilder.append(" height="+height);
+	}
+	if (maritalStatus!=null) {
+		stringBuilder.append(" maritalStatus="+maritalStatus);
+		if (maritalStatus.equals(MaritalStatus.MARRIED)) {
+			stringBuilder.append(" signifantOther="+significantOtherName);
+		}
+	}
+	return stringBuilder.toString()+")";
+}
+
 public static class PersonBuilder {
     // required parameters
     private String first = null;

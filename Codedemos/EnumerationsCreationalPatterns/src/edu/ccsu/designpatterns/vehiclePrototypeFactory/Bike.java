@@ -16,4 +16,8 @@ public class Bike extends VehicleBase{
   public Bike clone(){
     return new Bike();
   }
+  
+  public String toString() {
+	  return "Bike ("+super.toString()+")";
+  }
 }

@@ -12,4 +12,8 @@ public class FordTransmission implements Transmission{
   public FordTransmission clone(){
     return new FordTransmission();
   }
+  
+  public String toString() {
+	  return "FordTransmission";
+  }
 }
