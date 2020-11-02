@@ -8,12 +8,17 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Class that provides the logic for all state transitions via lookup table
+ * Class that provides the logic for all state transitions via lookup table.
  * 
  * @author Chad Williams
  *
  */
 abstract class BaseLightState implements LightState {
+	/**
+	 * Note this particular implementation takes advantage of all state's 
+	 * not having any internal state, if internal state was required instead you
+	 * could instantiate a new instance each time.
+	 */
 	private static Map<String, BaseLightState> stateLookupMap = null;
 	
 	static void loadLookupMap(String csvFilename) throws IOException, ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException, InstantiationException, IllegalArgumentException, SecurityException{
