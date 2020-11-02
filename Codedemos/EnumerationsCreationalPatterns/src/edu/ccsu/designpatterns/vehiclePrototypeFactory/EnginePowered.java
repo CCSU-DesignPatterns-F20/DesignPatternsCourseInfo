@@ -9,10 +9,14 @@ public class EnginePowered implements MovementStrategy{
 
   @Override
   public void move(Direction d) {
-    throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    throw new UnsupportedOperationException("Not supported yet."); 
   }
 
   public EnginePowered clone(){
     return new EnginePowered();
+  }
+  
+  public String toString() {
+	  return "EnginePowered";
   }
 }

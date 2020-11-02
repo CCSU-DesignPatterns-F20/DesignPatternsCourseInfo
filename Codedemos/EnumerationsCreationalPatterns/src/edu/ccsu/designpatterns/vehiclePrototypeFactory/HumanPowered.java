@@ -15,4 +15,8 @@ public class HumanPowered implements MovementStrategy{
   public HumanPowered clone(){
     return new HumanPowered();
   }
+  
+  public String toString() {
+	  return "HumanPowered";
+  }
 }

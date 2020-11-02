@@ -22,4 +22,8 @@ public class Diesel extends EngineDecorator {
   public double getEngineSound() {
     return decoratedEngine.getEngineSound() * 1.2;
   }
+  
+  public String toString() {
+	  return "DieselEngine(sound: "+getEngineSound()+"[decoratedEngine="+decoratedEngine.toString()+"])";
+  }
 }

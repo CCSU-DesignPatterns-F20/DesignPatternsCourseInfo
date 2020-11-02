@@ -18,4 +18,8 @@ public class BaseEngine implements Engine{
   public BaseEngine clone(){
     return new BaseEngine(horsePower,soundMultiplier);
   }
+  
+  public String toString() {
+	  return "Engine(horsePower: "+horsePower+", sound: "+getEngineSound()+")";
+  }
 }

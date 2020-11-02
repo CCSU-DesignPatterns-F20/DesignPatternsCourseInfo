@@ -18,4 +18,8 @@ public class Hybrid extends EngineDecorator {
   public double getEngineSound() {
     return decoratedEngine.getEngineSound() * .6;
   }
+  
+  public String toString() {
+	  return "HybridEngine(sound: "+getEngineSound()+"[decoratedEngine="+decoratedEngine.toString()+"])";
+  }
 }
