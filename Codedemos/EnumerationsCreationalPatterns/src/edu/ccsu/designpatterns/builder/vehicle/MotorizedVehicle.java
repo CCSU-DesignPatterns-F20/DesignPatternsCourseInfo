@@ -75,7 +75,8 @@ public class MotorizedVehicle implements Vehicle {
         Seat seat = new ConcreteSeat();
         if (enhancements.contains(VehicleEnhancement.COMFORT)) {
           seat = new ComfortSeat(seat);
-        } else if (enhancements.contains(VehicleEnhancement.FAST)) {
+        }
+        if (enhancements.contains(VehicleEnhancement.FAST)) {
           seat = new SportSeat(seat);
         }
         seats.add(seat);
