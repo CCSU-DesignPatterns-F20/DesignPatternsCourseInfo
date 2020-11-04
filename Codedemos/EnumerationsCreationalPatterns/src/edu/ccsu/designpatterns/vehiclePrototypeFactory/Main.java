@@ -6,6 +6,7 @@ package edu.ccsu.designpatterns.vehiclePrototypeFactory;
 public class Main {
 
   public static void main(String[] args) {
+
     CarFactory carFactory = PrototypeCarFactory.getInstance();
 
     // Create some engine options

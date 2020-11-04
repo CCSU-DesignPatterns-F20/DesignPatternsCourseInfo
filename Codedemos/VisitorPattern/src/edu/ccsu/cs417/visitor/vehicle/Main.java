@@ -26,6 +26,6 @@ public class Main {
 
     visitor = new ClassSpecificVisitor();
     sedan.accept(visitor);
-    System.out.println(visitor.toString());
+    System.out.println(visitor.toString());   
   }
 }
