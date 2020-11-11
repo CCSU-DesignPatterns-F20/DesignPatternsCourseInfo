@@ -1,17 +1,21 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package edu.ccsu.genericexample;
+package edu.ccsu.mementoexample;
 
 /**
- *
- * @author cw1491
+ * Simple example of Memento pattern for saving state to be held
+ * by another class safely without breaking encapsulation.
+ * 
+ * @author Chad Williams
  */
 public class Originator {
     private String transferrableInfo;
     private String valueNotInMemento;
+    
+    public Originator(){
+    }
+    
+    public Originator(Memento memento) {
+    	this.transferrableInfo = memento.transferrableInfo;
+    }
     
     public Originator(String valueNotInMemento, String transferrableInfo){
         this.valueNotInMemento = valueNotInMemento;
@@ -28,7 +32,7 @@ public class Originator {
         return memento;
     }
     
-    public void setMemento(Memento memento){
+    public void restoreFromMemento(Memento memento){
         this.transferrableInfo = memento.getTransferrableInfo();
     }
     
